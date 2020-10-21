@@ -1,0 +1,48 @@
+      * {
+        margin:0;
+        padding:0;
+      }
+
+      body {
+        background:#E3FFEA;
+      }
+
+      header, .main, footer {
+        background:#E3FFEA;
+        width:92%;
+        max-width:1500px; 
+        margin:5px auto;
+
+      }
+
+      header nav {
+        background:#00B043;
+        overflow:hidden;
+      }
+
+      header nav ul {
+        list-style:none; 
+      }
+
+      header nav ul li {
+        float: left;
+      }
+
+      header nav ul li a {
+        padding:0px 49px;
+        display:block;
+        color:#fff;
+        font-size: 12;
+        font-family: Muthiara -Demo Version-;
+        text-decoration:none; 
+      }
+
+      header nav ul li a:hover {
+        background:#8FFFAB; 
+      }
+
+      h3 {
+        font-family: Architects Daughter;
+      }
+
+
